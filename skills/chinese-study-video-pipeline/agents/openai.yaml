@@ -1,0 +1,7 @@
+interface:
+  display_name: "中文考研视频流水线"
+  short_description: "中文配音、成片审校与抖音定时发布的可恢复工作流"
+  default_prompt: "使用 $chinese-study-video-pipeline 将一批中文考研内容制作并按清单发布。"
+policy:
+  allow_implicit_invocation: true
+

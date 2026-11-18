@@ -1,0 +1,26 @@
+{
+  "episode": 0,
+  "timezone": "Asia/Shanghai",
+  "scheduled_at": "YYYY-MM-DD HH:mm",
+  "title": "中文标题",
+  "body": "第一段中文正文\n第二段中文正文\n\n先独立完成，再回来核对",
+  "hashtags": ["考研", "考研备考", "学习方法", "老兔学长"],
+  "episode_folder": "D:\\项目\\第NN期",
+  "video": "D:\\项目\\06_视频成品\\第NN期.mp4",
+  "cover_horizontal": "D:\\项目\\第NN期_封面_4比3.png",
+  "cover_vertical": "D:\\项目\\第NN期_封面_3比4.png",
+  "review_json": "D:\\项目\\04_审校记录\\第NN期_成片复核.json",
+  "declaration": "无需添加自主声明",
+  "chapters": "平台AI生成并保存",
+  "location": "",
+  "hot_topic": "",
+  "state": "待上传",
+  "preflight": {
+    "video_sha256": "",
+    "video_hash_matches_review": false,
+    "seconds": 0,
+    "assets_exist": false,
+    "chinese_only": false,
+    "periods_removed": false
+  }
+}

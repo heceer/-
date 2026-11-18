@@ -1,0 +1,17 @@
+{
+  "ep": 0,
+  "title": "中文标题",
+  "audio": "音频/第NN期_全中文口播.wav",
+  "parameters": {
+    "language": "all_zh",
+    "gpt": "GPT_SoVITS/pretrained_models/s1v3.ckpt",
+    "sovits": "GPT_SoVITS/pretrained_models/v2Pro/s2Gv2ProPlus.pth",
+    "speed": 1.15,
+    "split": "cut2",
+    "batch_size": 1,
+    "parallel_infer": false
+  },
+  "scenes": [],
+  "reference_sha256": "",
+  "voice_sha256": ""
+}
